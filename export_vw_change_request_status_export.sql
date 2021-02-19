@@ -20,6 +20,9 @@
 use sladb
 go
 
+set nocount on
+go
+
 open symmetric key sladb_symkey
 	decryption by certificate sladb_cert;
 go
