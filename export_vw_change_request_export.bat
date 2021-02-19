@@ -10,5 +10,5 @@ git commit -m "Added latest tbl_change_request data export to the csv."
 
 git push origin master
 
-pause
+exit
 
