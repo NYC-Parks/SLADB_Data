@@ -8,7 +8,7 @@ cd %~dp0
 
 git add .
 
-git commit -m "Added latest tbl_change_request_status data export to the csv."
+git commit -m "Added latest tbl_change_request_status data export to the json."
 
 REM git push origin master
 
